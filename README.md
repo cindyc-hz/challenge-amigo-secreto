@@ -29,6 +29,7 @@ El objetivo de esta aplicación web es permitir a los usuarios organizar un sort
 5. Cuando la lista esté completa es momento de hacer click en "Sortear amigo"
 6. ¡Listo! El nombre de tu amigo secreto aparecerá en pantalla
 
+![Tutorial amigo secreto GIF](assets/tutorial_amigo_secreto.gif)
 ---
 
 **_Desarrollado por Cindy Carreón_**
