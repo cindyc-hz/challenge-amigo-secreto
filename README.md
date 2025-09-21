@@ -22,7 +22,7 @@ El objetivo de esta aplicación web es permitir a los usuarios organizar un sort
 
 **📌 ¿Cómo usarlo?**
 
-1. Abre el archivo `index.html` en el navegador web de tu preferencia
+1. Abre el archivo `index.html` en el navegador de tu preferencia, o accede directamente al [link](https://cindyc-hz.github.io/challenge-amigo-secreto/)
 2. Escribe el nombre de un amigo en la caja de texto
 3. Haz clic en el botón "Añadir" para que se agregue a la lista
 4. Repite los pasos 2 y 3 hasta que hayas terminado de agregar a todos los participantes
